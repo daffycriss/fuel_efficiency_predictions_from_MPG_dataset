@@ -51,7 +51,7 @@ The project follows the steps outlined below:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/MPG-Prediction.git
+   git clone https://github.com/daffycriss/fuel_efficiency_predictions_from_MPG_dataset.git
 
 2. Open the Jupyter Notebook:
 
